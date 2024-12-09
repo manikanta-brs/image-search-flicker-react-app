@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/image-search-flicker-react-app/static/css/main.b5440ab1.css",
+    "main.js": "/image-search-flicker-react-app/static/js/main.4e134b2f.js",
+    "static/js/787.3d7a5297.chunk.js": "/image-search-flicker-react-app/static/js/787.3d7a5297.chunk.js",
+    "static/media/BG.png": "/image-search-flicker-react-app/static/media/BG.0805d1c579b3eb137695.png",
+    "index.html": "/image-search-flicker-react-app/index.html",
+    "main.b5440ab1.css.map": "/image-search-flicker-react-app/static/css/main.b5440ab1.css.map",
+    "main.4e134b2f.js.map": "/image-search-flicker-react-app/static/js/main.4e134b2f.js.map",
+    "787.3d7a5297.chunk.js.map": "/image-search-flicker-react-app/static/js/787.3d7a5297.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5440ab1.css",
+    "static/js/main.4e134b2f.js"
+  ]
+}
